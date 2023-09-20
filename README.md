@@ -57,7 +57,6 @@ View: views.ReadLaterView
 Name: "read-later"
 
 # Dependencies
-
 The application is built using Python and utilizes SQLite for data management and templates for rendering views. The following dependencies are required to run the Django Landmarks Blog:
 
 Django
