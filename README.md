@@ -3,10 +3,16 @@
 
  ![image](https://github.com/Harshit-8/Harshit_Blogapp/assets/85034142/d9455285-83da-4d67-afed-eb5102b8a2b0)
  ![image](https://github.com/Harshit-8/Harshit_Blogapp/assets/85034142/d6b56768-b4ad-43fc-8d7f-79d79fa699d4)
+
+ 
  ![image](https://github.com/Harshit-8/Harshit_Blogapp/assets/85034142/23cd89df-9b03-4a1e-bc19-9e7bc75d2b75)
+ 
  ![image](https://github.com/Harshit-8/Harshit_Blogapp/assets/85034142/f3aeefef-193a-49a9-a87c-9f5c3543984f)
+ 
  ![image](https://github.com/Harshit-8/Harshit_Blogapp/assets/85034142/a0fd6435-d6e7-4e96-8187-a46e307cf874)
+ 
  ![image](https://github.com/Harshit-8/Harshit_Blogapp/assets/85034142/12dd3c5d-77b8-4115-a40c-42753a8a0d49)
+ 
  ![image](https://github.com/Harshit-8/Harshit_Blogapp/assets/85034142/200c04ac-db11-43b2-8fa7-033afdb5909a)
 
 
